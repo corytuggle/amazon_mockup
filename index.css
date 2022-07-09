@@ -1,0 +1,130 @@
+/* * {
+    border: 1px solid red;
+} */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.top-container {
+    max-width: 450px;
+    margin: auto;
+    padding-top: 150px;
+}
+
+#header {
+    margin-bottom: 10px
+}
+
+.main-upper {
+    border: 1px solid rgb(228, 228, 228);
+    border-radius: 2.5px;
+    width: 425px;
+    height: 300px;
+    padding-left: 25px;
+}
+
+#header {
+    font-weight: 50;
+    margin-top: 5px;
+}
+
+.form {
+    width: 100%;
+}
+
+.input-indicator {
+    font-size: 13px;
+}
+
+.input-box {
+    width: 400px;
+    height: 30px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+a {
+    color: rgb(49, 172, 209);
+    text-decoration: none;
+}
+
+#password {
+    width: 400px;
+    height: 30px;
+    margin-top: 500px;
+    padding-left: 50px
+}
+
+#forgot-link {
+    font-size: 14px;
+    margin-top: 5px;
+    padding-left: 175px;
+}
+
+#submit-log-in {
+    background-color: rgb(211, 197, 1);
+    border: 1px solid rgb(160, 118, 2);
+    border-radius: 1px;
+    margin-top: 5px;
+    margin-bottom: 5%;
+    width: 400px;
+    height: 30px;
+}
+
+#arrow {
+    font-size: 12px;
+}
+
+.main-lower {
+    text-align: center;
+}
+
+p {
+    display:inline-block;
+    width: 400px;
+    color: rgb(155, 155, 155);
+    text-decoration: none;
+    border-bottom: 1px solid rgb(155, 155, 155);
+    line-height: 0.1em;
+}
+
+p span {
+    width: 100%;
+    background:#fff;
+    padding: 10px;
+}
+
+#account-creation {
+    background-color: rgb(231, 231, 231);
+    border: 2px solid lightgray;
+    border-radius: 2px;
+    margin-top: 5px;
+    margin-bottom: 5%;
+    width: 400px;
+    height: 30px;
+}
+
+#footer {
+    width: 100%;
+    position: relative;
+    bottom: 0;
+    text-align: center;
+    border-top: 2px solid lightgray;
+    font-size: 12px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.footer-links {
+    width: 20px;
+    padding: 10px;
+}
+
+#copy {
+    padding-top: 25px;
+}
